@@ -9,7 +9,6 @@ import android.os.Build;
 import android.os.CancellationSignal;
 import android.support.annotation.RequiresApi;
 import android.support.v4.app.ActivityCompat;
-import android.support.v4.content.ContextCompat;
 import android.widget.TextView;
 
 @RequiresApi(api = Build.VERSION_CODES.M)
